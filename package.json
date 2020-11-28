@@ -1,0 +1,31 @@
+{
+  "name": "language-msxbasic-inliner",
+  "version": "0.0.1",
+  "description": "MSX-BASIC language support in Atom for Inliner",
+  "author": "Giovanni Nunes <giovanni.nunes@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://atom.io/packages/language-msxbasic-for-inliner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plainspooky/language-msxbasic-for-inliner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/plainspooky/language-msxbasic-for-inliner/issues"
+  },
+  "keywords": [
+    "Atom",
+    "package",
+    "language",
+    "basic",
+    "msx",
+    "msx2",
+    "msx2+",
+    "msx turbo r",
+    "syntax",
+    "highlight"
+  ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
