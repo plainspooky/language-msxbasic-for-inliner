@@ -1,6 +1,6 @@
 {
-  "name": "language-msxbasic-inliner",
-  "version": "0.0.1",
+  "name": "language-msxbasic-for-inliner",
+  "version": "0.1.0",
   "description": "MSX-BASIC language support in Atom for Inliner",
   "author": "Giovanni Nunes <giovanni.nunes@gmail.com>",
   "license": "ISC",
@@ -17,10 +17,11 @@
     "package",
     "language",
     "basic",
+    "inliner",
+    "msx turbo r",
     "msx",
     "msx2",
     "msx2+",
-    "msx turbo r",
     "syntax",
     "highlight"
   ],
